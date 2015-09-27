@@ -1,19 +1,14 @@
 /*************************
-CSI4106 - Assignment #1
-*************************/
-
-/*************************
 Author: Yasser Ghamlouch
-Student Number: 6276898
 *************************/
 
 /*************************
 	Description
 *************************/
-In this assignment we were given the map of romania with bidirectional links between different cities
+In this project we consider the map of romania with bidirectional links between different cities
 and the cost to go from one city to another. 
 
-The following program (contained in this source folder) provides: 
+The following program (contained in the source folder) provides: 
 - A representation of the Map as an adjacency matrix.
  
 - A representation of every city as a Node object which can expand into
